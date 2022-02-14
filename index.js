@@ -6,7 +6,7 @@ const client = new Discord.Client();
 
 
 const prefix = '!';
-const KEY = 'ODA5OTkwNTk4MzM3MzYzOTk4.YCdIhw.GPmxncc9qLNxgGPXZ51APfjsej8';
+const KEY = '';
 
 let steamids = [{name: 'juan', id: '13123'},{name: 'sonry', id: '76561198030567047'} ];
 
